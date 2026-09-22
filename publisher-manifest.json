@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "58787d86d58d23f6101ca3c3",
+  "owner": "ber4gyatf",
+  "repo": "page-c1da20a0080b8f13fb91d16e",
+  "title": "维多云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c1da20a0080b8f13fb91d16e",
+      "a": "维多云",
+      "b": "机场官网线路发布页",
+      "entity": "维多云",
+      "brand": "维多云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "876427005ff94690580c7d14fd40455dbf26c7c184793ea30a4e88d08e050452",
+      "content": {
+        "primary_entity": "维多云",
+        "keyword1": "维多云",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "选择客户端时，先确认设备系统与订阅格式是否匹配。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "维多云提供多档套餐，按设备数量和流量需求选择合适版本即可开始配置。",
+          "AI_CLOSING_TITLE": "选对套餐，畅享加速",
+          "AI_DESCRIPTION": "，维多云提供基础版、旗舰版与团队版三档方案，分别覆盖每月 100GB、300GB 和 1000GB 流量，并支持 3 台、5 台和 20 台设备同时在线。旗舰版与团队版包含全节点流媒体解锁和专属高带宽线路，适合多设备或团队使用。所有套餐均按年付有优惠，可根据日常用量和在线设备数灵活选择。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB，支持 5 台；团队版每月 1000GB，支持 20 台。按年付价格分别为 ¥150、¥350 和 ¥850，可根据实际用量选择。",
+          "AI_FAQ_ANSWER_2": "旗舰版和团队版支持全节点原生流媒体解锁，基础版解锁基础流媒体。具体平台以实际测试为准。",
+          "AI_FAQ_ANSWER_3": "在订阅管理页复制订阅链接，导入对应客户端后更新节点即可。具体操作可参考各客户端的配置文档。",
+          "AI_FAQ_ANSWER_4": "套餐按自然月计算，年付相当于一次性支付 12 个月费用，均价更低，适合长期稳定使用。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 7x24 优先工单，团队版配备专属客户经理，可按需获得技术支持。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "维多云各套餐的流量和设备数有什么区别？",
+          "AI_FAQ_QUESTION_2": "流媒体解锁支持哪些平台？",
+          "AI_FAQ_QUESTION_3": "订阅如何导入到客户端？",
+          "AI_FAQ_QUESTION_4": "按年付和按月付有什么区别？",
+          "AI_FAQ_QUESTION_5": "遇到问题怎样获得技术支持？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从套餐容量到线路优化，维多云提供清晰的选择路径。",
+          "AI_FEATURES_TITLE": "套餐与线路特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备；旗舰版 300GB、5 台设备；团队版 1000GB、20 台设备，按需匹配。",
+          "AI_FEATURE_TEXT_2": "旗舰版与团队版包含 IPLC 专线和 VIP 高带宽节点，为游戏和流媒体提供更稳定的连接。",
+          "AI_FEATURE_TEXT_3": "各套餐均支持年付优惠，旗舰版和团队版提供优先工单或专属客户经理支持。",
+          "AI_FEATURE_TITLE_1": "三档套餐灵活选",
+          "AI_FEATURE_TITLE_2": "专线优化更稳定",
+          "AI_FEATURE_TITLE_3": "年付优惠与支持",
+          "AI_GUIDE_INTRO": "按三步完成从选套餐到配置客户端的流程，快速开始使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "维多云提供基础版、旗舰版和团队版三档海外加速套餐，覆盖 100GB 到 1000GB 月流量和 3 到 20 台设备，适合个人多设备或小型团队使用。",
+          "AI_HERO_SUBTITLE": "维多云多档加速套餐",
+          "AI_HIGHLIGHT_1": "每档套餐标注流量与设备数",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "年付方案价格更划算",
+          "AI_PLANS_INTRO": "基础版适合个人轻量使用，旗舰版适合多设备流媒体和游戏，团队版满足高流量多设备需求。可参考每月流量和在线设备数对比。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量和同时在线设备数，在基础版、旗舰版和团队版中选择适合的版本。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、设备限制和线路特点，确认符合使用需求。",
+          "AI_STEP_TEXT_3": "获取订阅链接后，按照对应客户端的配置文档导入订阅并更新节点。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "维多云套餐优选"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "o1gjwd.cn",
+    "host": "o1gjwd.cn"
+  },
+  "file_hashes": {
+    "index.html": "98f681b9580d240e8d254cc31905f5dabb33846985e5aa8be7d613c2b83a77cd",
+    "sitemap.xml": "741bfb413c85444bc97696c005127bb035f30eeff4e99b148beb29c5c2a01923",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "305be08c7301a5fdda1c7b043f31f8da07240c7d08051e45cc2736d0076234a8",
+    "robots.txt": "f467042305b41dbd1a1ffd443733097289a55f9f8e5839bfb85f5e92a07b4dcf",
+    "4981064f308a0cdb3ac1b42f44e5a610.txt": "21ab768505e206dd2ef52fd70fcfa45af5969516abcb015b110ca303cdae6c49"
+  },
+  "revision": "b12038b724d1c2cd3688b978af56ba893bd83b5aba9f27a554c9fca92ed7d825"
+}
